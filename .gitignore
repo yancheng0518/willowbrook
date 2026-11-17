@@ -1,0 +1,3 @@
+.openai/
+output/
+.playwright-cli/
